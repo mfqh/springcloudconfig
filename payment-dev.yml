@@ -1,2 +1,2 @@
 test: 
-	env: dev_environment_test
+  env: dev_environment_test
